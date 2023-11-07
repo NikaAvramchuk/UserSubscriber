@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+Tue Nov 07 01:20:01 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018b-a726-80a8-00001a0ed260 
+on database directory memory:C:\Users\Veronika_Avramchuk\Documents\Github\Code\learning-spring\1fb0ec0a-25a9-4aed-8e6f-2a0095b525c5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
+Loaded from file:/C:/Users/Veronika_Avramchuk/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.13+10-LTS-370
+user.dir=C:\Users\Veronika_Avramchuk\Documents\Github\Code\learning-spring
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 07 01:20:03 CET 2023:
+Shutting down instance a816c00e-018b-a726-80a8-00001a0ed260 on database directory memory:C:\Users\Veronika_Avramchuk\Documents\Github\Code\learning-spring\1fb0ec0a-25a9-4aed-8e6f-2a0095b525c5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
+----------------------------------------------------------------
+Tue Nov 07 01:20:05 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c934c123-018b-a726-80a8-00001a0ed260 
+on database directory memory:C:\Users\Veronika_Avramchuk\Documents\Github\Code\learning-spring\1fb0ec0a-25a9-4aed-8e6f-2a0095b525c5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
+Loaded from file:/C:/Users/Veronika_Avramchuk/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.13+10-LTS-370
+user.dir=C:\Users\Veronika_Avramchuk\Documents\Github\Code\learning-spring
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
